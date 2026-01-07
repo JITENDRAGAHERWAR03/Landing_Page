@@ -53,7 +53,8 @@ Open in any modern browser
 
 📸 Preview
 
-Add screenshots or a live demo link here (optional)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2ad29e46-f5e4-470f-a67e-c6e0174b703f" />
+
 
 🎯 Learning Outcomes
 

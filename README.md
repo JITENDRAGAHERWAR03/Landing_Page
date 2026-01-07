@@ -27,4 +27,13 @@ This project demonstrates clean UI design, a navigation menu with dropdowns, and
 ---
 
 ## 📁 Project Structure
-
+📦 Landing-Page
+┣ 📂 css
+┃ ┣ 📜 style.css
+┃ ┗ 📜 all.css
+┣ 📂 js
+┃ ┗ 📜 script.js
+┣ 📂 images
+┃ ┗ 📜 logo.svg
+┣ 📜 index.html
+┗ 📜 README.md

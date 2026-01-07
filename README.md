@@ -45,3 +45,36 @@ This project demonstrates clean UI design, a navigation menu with dropdowns, and
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/landing-page.git
+Open the project folder
+
+Double-click index.html
+
+Open in any modern browser
+
+📸 Preview
+
+Add screenshots or a live demo link here (optional)
+
+🎯 Learning Outcomes
+
+Improved HTML page structuring
+
+Styling layouts using CSS
+
+DOM manipulation using JavaScript & jQuery
+
+Creating interactive UI components
+
+👨‍💻 Author
+
+Jitendra KanhaiyaSingh Gaherwar
+
+B.Tech IT Student
+
+Aspiring Data Analyst & Developer
+
+Skills: Python | Power BI | ML | SQL | Web Development
+
+⭐ Support
+
+If you like this project, please ⭐ star the repository to support my work!

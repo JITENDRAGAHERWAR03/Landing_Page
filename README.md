@@ -37,3 +37,11 @@ This project demonstrates clean UI design, a navigation menu with dropdowns, and
 ┃ ┗ 📜 logo.svg
 ┣ 📜 index.html
 ┗ 📜 README.md
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/landing-page.git
